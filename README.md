@@ -1,7 +1,7 @@
 # Japa Counter (Deity & Mantra Counter)
 
 A clean, production-ready Android application for counting mantra repetitions (Japa) with support for multiple deities, mala tracking, and haptic feedback.
-
+# Made by Het Shah 
 ## Features
 
 - **Interactive Counter**: Tap the large circle to increment your count
